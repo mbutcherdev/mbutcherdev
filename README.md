@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mattm a Junior Software Engineer from London
+### Hi there 👋, I'm Matt, a Junior Software Engineer from London
 
 
 Here are some ideas to get you started:
