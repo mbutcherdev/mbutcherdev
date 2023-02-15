@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 
 - 🔭 Projects I've done:
      - Password Generator with GUI (in Tkinter)
+     - Sudoku with backtracking
+     - Checkers in pygame
      - Django Discord/Slack combi site
      - Pomodoro Timer for focusing
 - 🌱 I’m currently learning Python, SQL, Data structures and Algorithms (thanks to Structy!)
